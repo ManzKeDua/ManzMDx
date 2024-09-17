@@ -20,9 +20,6 @@
   
 - Untuk menggunakan bot ini, kamu harus mengisi ```Apikey``` terlebih dahulu ( Jika Tidak , Gpp )
 - Tidak disarankan menginstal bot ini di termux atau panel yang tidak mempunyai kelengkapan ffmpeg, imagemagick, webp atau panel yang tidak support express.js
-  
-- Menggunakan 95% fitur dari [`RestApi`](https://api.botcahx.eu.org)  
-
 
 **Apikey :**
 - [✓] Free ApiKey 15 Request per/day
