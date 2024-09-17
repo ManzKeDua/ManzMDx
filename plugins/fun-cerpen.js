@@ -1,4 +1,4 @@
-let { randomCerpen } = require("../scrape/random");
+let { randomCerpen } = require("../lib/random");
 let handler = async (m, { conn, text, usedPrefix, command }) => {
   m.reply('Sek');
   let cerpen = await randomCerpen();
