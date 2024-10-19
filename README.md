@@ -18,7 +18,7 @@
   ## Note!
   **Important :**
   
-- Untuk menggunakan bot ini, kamu harus mengisi ```Apikey``` terlebih dahulu ( Jika Tidak , Gpp )
+- Untuk menggunakan bot ini, kamu harus mengisi ```Apikey``` terlebih dahulu ( Jika Ga Ya Gaoapa )
 - Tidak disarankan menginstal bot ini di termux atau panel yang tidak mempunyai kelengkapan ffmpeg, imagemagick, webp atau panel yang tidak support express.js
 
 **Apikey :**
@@ -86,6 +86,9 @@ Recode | Contributor |
 
 ##### Special Thanks To
 <!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
+<!--[![Jarsyp]
+(https;://github.com/Jarsepay.png?size=100)]
+(https://github.com/Jarsepay)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 [![adiwajshing/Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)-->
 <a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
